@@ -1,0 +1,161 @@
+= Niko Steinhoff
+data engineer, athlete, gamer, plain text aficionado
+
+:imagesdir: images/
+
+image::headshot-formal.jpg[headshot,400,float="left"]
+
+'''
+
+== Persönliche Daten
+*Niko Steinhoff* +
+06.07.1985, Flensburg +
+Deutsch
+
+Falkenried 85 +
+20251 Hamburg +
++49 151 7242 1630 +
+niko.steinhoff@gmail.com
+
+
+== Berufserfahrung
+
+=== Januar 2019 - Juli 2020 | Senior Data Engineer
+*Risk 42 Software (Risk Prevent Software GmbH)*, Mönkedamm 11, 20457 Hamburg, GER +
+_Software Development - Riskobewertung_
+
+* Greenfield-Entwicklung der Risikobewertungs-Platform INFINITY für den Anwendungsbereich
+  Konsumentenkredite.
+* Design and Implementierung der _Machine-Learning_ Infrastruktur für die INFINITY Platform
+* _Continuous Integration_ und Testing der _Machine-Learning_ Modelle und Services
+
+=== Mai 2017 - Dezember 2018 | Senior Data Engineer
+*Risk.Ident GmbH*, Am Sandtorkai 50, 20457 Hamburg, GER +
+_Software-Entwicklung - Betrugsprävention_
+
+* Design und Implementierung einer verteilten _Microservice_-Architektur
+  für ein _state-of-the-art_ Lebenszyklusmanagement von
+  _Machine Learning_ Vorhersagemodellen
+* Kontinuierlich Erweiterung der Datenanreicherungs- und Vorhersage-Komponenten
+  der Betrugspräventions-Sotware *Frida*
+* Vereinigung von _Machine Learning_ und regelbasierten Betrugsrisko-Modellen
+
+=== April 2015 - April 2017 | Data Scientist
+*Gpredictive GmbH*, Lilienstraße 11, 20095 Hamburg, GER +
+_Software-Entwicklung - Big Data (SaaS Anwendung)_
+
+* Implementierung einer automatisierten Pipeline zum erstellen und verwalten
+  von Vorhersagemodellen
+* Forschungsprojekte zur Verbesserung der Vorhersagequalität
+* Aufsetzen und Wartung der internen _Continuous Integration/Deployment_
+  Infrastruktur
+* Automatisierung der Integrationstests des service-orientierten Backends
+
+=== Juli 2013 - Januar 2015 | Data Scientist
+*ForexInnovation GmbH*, Falkenried 88, 20251 Hamburg, GER +
+_Software-Entwicklung - Algorithmic Forex Trading_
+
+* Design und Implementierung von Handels-Algorithmen in C# und
+  MQL (MetaQuotes Language)
+* Statistische Auswertung von echter und simulierter Performanz von
+  Handelssystemen um zukünftige Erträge zu prognostizieren
+* Automatisierung der Handelssystem-Analyse
+
+=== September 2012 - Juli 2013 | Datenanalyst
+*Inquest Institut*, Ohlsdorfer Str. 1-3, 22299 Hamburg, GER +
+_Marktforschung_
+
+* Datenanalyse mit SPSS und Excel
+* Spreadsheet-Design und -Programmierung (Visual Basic)
+
+=== Januar 2010 - Juli 2011 | Forschungsassistent
+*GIGA - Neuer Jungfernstieg 21*, 20354 Hamburg, GER +
+_Forschung - Politikwissenschaft_
+
+* Analyse von internationalen Umweltabkommen
+* Mitautor: “The nature and role of regional agreements in
+  international environmental politics” 
+
+
+== Ausbildung
+=== 2009 - 2013 | Master of Science: Politics, Economics and Philosophy
+*Universtät Hamburg*, GER
+
+_Thesis_: “On the Reality of Virtual Currencies: An Analysis of Purchasing
+Power Parity in Virtual Economies” - Grade 1.0
+
+=== 2006 - 2009 | Bachelor of Arts: Integrated Social Sciences
+*Jacobs University Bremen*, GER
+
+
+== Kenntnisse
+
+=== Sprachen
+`+#####+`     German +
+`+#####+`     English +
+`+##...+`     Spanish +
+
+=== Akademisch
+`+####.+`     Machine Learning +
+`+###..+`     Decision Theory +
+`+###..+`     Econometrics +
+`+###..+`     Game Theory +
+`+###..+`     Time Series Analysis +
+`+##...+`     Behavioural Economics +
+`+##...+`     Public Choice +
+
+
+=== Programmiersprachen
+`+#####+`     Python +
+`+####.+`     Bash +
+`+####.+`     Scala +
+`+###..+`     Clojure +
+`+###..+`     Rust +
+`+###..+`     SQL +
+`+##...+`     C +
+`+##...+`     C# +
+`+##...+`     Haskell +
+`+##...+`     JavaScript / TypeScript +
+`+##...+`     R +
+`+##...+`     Various Lisps and Schemes +
+
+=== Libraries / Frameworks / Tools
+`+#####+`     ScikitLearn +
+`+#####+`     Vim +
+`+####.+`     Docker +
+`+####.+`     Git +
+`+####.+`     Numpy +
+`+####.+`     Pandas +
+`+###..+`     Apache Kafka +
+`+###..+`     Apache Spark +
+`+###..+`     Elasticsearch +
+`+###..+`     Kubernets +
+`+###..+`     MLflow +
+`+###..+`     SciPy +
+`+##...+`     LaTex +
+
+=== Weitere
+`+####.+`     CI/CD +
+`+####.+`     Functional Programming +
+`+####.+`     Test-Driven Development (TDD) +
+`+####.+`     XP / Agile Methodologies +
+`+###..+`     Object Oriented Programming (OOP) +
+
+
+.Weitere Aktivitäten
+* Github: https://github.com/NSteinhoff
+* Kaggle: https://www.kaggle.com/uristic
+* _"Functional Programming in Scala Specialization"_ - Coursera
+* _"President’s List for outstanding academic performance"_ of the
+  Jacobs University Bremen School of Humanities and Social Sciences
+  (2006/2007, 2007/2008, and 2008/2009)
+* Auslandsjahr in Nelson, Neuseeland (2002/2003)
+* Auslandssemester Universität Barcelona (09/2008 - 03/2009)
+* Praktikum bei der SourceIt GmbH in Shanghai, China (06/2008 - 09/2008)
+* _"Sports Advisor"_ an der Jacobs University Bremen (2007 - 2009)
+* Ski- und Snowboardlehrer für die Universität Hamburg (2011 - 2016)
+
+.Hobbies
+* Calisthenics, Hand balancing
+* Skiing, Ski-Touring/Backcountry skiing, Telemark
+* Unhealthy addiction to Roguelike games ;)
